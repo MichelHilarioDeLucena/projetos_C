@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "math.h": "c",
+        "screen_info.h": "c",
+        "boxes": "c",
+        "xlib.h": "c",
+        "my_graphics.h": "c",
+        "termios.h": "c"
+    }
+}
